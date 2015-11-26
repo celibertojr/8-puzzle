@@ -1,0 +1,41 @@
+[PropertyInfo]
+Aberto,LinkedList,false,false, , ,false,<default>
+arvore,LinkedList,false,false, , ,false,<default>
+borderLayout1,BorderLayout,false,false, , ,false,<default>
+cont,int,false,false, , ,false,<default>
+Entrada,StringBuffer,false,false, , ,false,<default>
+EntradaTexto,JTextArea,false,false, , ,false,<default>
+Fechado,LinkedList,false,false, , ,false,<default>
+file1,File,false,false, , ,false,<default>
+Final,StringBuffer,false,false, , ,false,<default>
+formacao,String,false,false, , ,false,<default>
+G_Aberto,LinkedList,false,false, , ,false,<default>
+jMenuItem1,JMenuItem,false,false, , ,false,<default>
+jMenuItem2,JMenuItem,false,false, , ,false,<default>
+jPopupMenu1,JPopupMenu,false,false, , ,false,<default>
+jTextArea1,JTextArea,false,false, , ,false,<default>
+jTextField1,JTextField,false,false, , ,false,<default>
+M,int,false,false, , ,false,<default>
+Matriz,StringBuffer,false,false, , ,false,<default>
+meta,int[][],false,false, , ,false,<default>
+MontaM,JButton,false,false, , ,false,<default>
+N,int,false,false, , ,false,<default>
+nos,int,false,false, , ,false,<default>
+Painel,JPanel,false,false, , ,false,<default>
+Resolve,JButton,false,false, , ,false,<default>
+resposta,char[][],false,false, , ,false,<default>
+Sair,JButton,false,false, , ,false,<default>
+tabuleiro,int[][],false,false, , ,false,<default>
+Texto,JTextArea,false,false, , ,false,<default>
+titledBorder1,TitledBorder,false,false, , ,false,<default>
+titledBorder2,TitledBorder,false,false, , ,false,<default>
+titledBorder3,TitledBorder,false,false, , ,false,<default>
+titledBorder4,TitledBorder,false,false, , ,false,<default>
+titledBorder5,TitledBorder,false,false, , ,false,<default>
+titledBorder6,TitledBorder,false,false, , ,false,<default>
+titledBorder7,TitledBorder,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
